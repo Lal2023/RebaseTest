@@ -13,3 +13,11 @@ function13(){
 function14(){
      print("Some more functions here");
 }
+
+function15(){
+     print("Some more functions here");
+}
+
+function16(){
+     print("Some more functions here");
+}
