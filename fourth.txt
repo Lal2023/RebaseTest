@@ -1,1 +1,4 @@
 some content
+function1(){
+    cout << "Some new function here" << endl;
+}
