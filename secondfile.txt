@@ -1,1 +1,5 @@
 Some more content here
+
+function (){
+    print("Some new text here");
+}
