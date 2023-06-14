@@ -1,1 +1,17 @@
-Some content here
+New function to the new file
+
+function1(){
+     print("Some more functions here");
+}
+
+function2(){
+     print("Some more functions here");
+}
+
+function3(){
+     print("Some more functions here");
+}
+
+function4(){
+     print("Some more functions here");
+}
