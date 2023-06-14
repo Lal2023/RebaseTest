@@ -2,3 +2,7 @@ some content
 function1(){
     cout << "Some new function here" << endl;
 }
+
+function2(){
+    cout << "Some new function here" << endl;
+}
